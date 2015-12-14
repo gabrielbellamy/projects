@@ -1,4 +1,5 @@
 // JavaScript File
+<<<<<<< HEAD
  // var random = Math.floor((Math.random() * 100) + 1); GENERATES RANDOM NUMBER
 {
  function getRandomNumber(upper) 
@@ -39,4 +40,3 @@ var guessed = '';
     // leave the rest
    {
     var guess = document.getElementById('guess').value
-}
