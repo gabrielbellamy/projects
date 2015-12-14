@@ -1,8 +1,4 @@
 // JavaScript File
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 51e008fbb55f59bb04f625625b37b6e851d75e05
  // var random = Math.floor((Math.random() * 100) + 1); GENERATES RANDOM NUMBER
 {
  function getRandomNumber(upper) 
