@@ -39,4 +39,3 @@ var guessed = '';
     // leave the rest
    {
     var guess = document.getElementById('guess').value
-}
